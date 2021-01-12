@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02_Demobank_niedzialajace_szybkie_przelewy</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f80d666d-6995-4022-b749-8edbab47cc0b</testCaseGuid>
+   <variable>
+      <defaultValue>'13 159'</defaultValue>
+      <description></description>
+      <id>79294513-5c1b-4052-8619-0879a66b90c6</id>
+      <masked>false</masked>
+      <name>available_money</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Sprawdzenie logowania dla błędnych danych</description>
+   <name>TC01_Demobank_niedzialajace_przelewy</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5bc43e65-ed8c-42d3-b5b0-a8498179e623</testCaseGuid>
+   <variable>
+      <defaultValue>'pole wymagane'</defaultValue>
+      <description>Komunikat w przypadku błednego logowania</description>
+      <id>448f7ecb-35bc-4e62-abfd-8062900dec97</id>
+      <masked>false</masked>
+      <name>msg_error_expected</name>
+   </variable>
+   <variable>
+      <defaultValue>'13 159'</defaultValue>
+      <description>Dostępne srodku na koncie</description>
+      <id>3ca81765-52a5-4256-9f1d-6766ffe6948e</id>
+      <masked>false</masked>
+      <name>available_money</name>
+   </variable>
+</TestCaseEntity>
